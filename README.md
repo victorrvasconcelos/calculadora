@@ -5,11 +5,16 @@
 
 **Funcionalidades**
 
-Adição
+Adição 
+
 Subtração
+
 Multiplicação
+
 Divisão
+
 Limpeza da entrada
+
 Exibição do resultado
 
 
