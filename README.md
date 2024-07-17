@@ -11,4 +11,4 @@ Divisão
 Limpeza da entrada
 Exibição do resultado
 
-![Uploading Captura de Tela (55).png…]()
+
